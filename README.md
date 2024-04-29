@@ -37,8 +37,6 @@
   </a>
 <br>
 
-- I’m currently persuing **IBM Full Stack Software Developer Professional Certificate**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shreshthagarwal" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
