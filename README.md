@@ -10,7 +10,9 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,js,c)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,c" />
+  </a>
 
 - I’m currently persuing **IBM Full Stack Software Developer Professional Certificate**
 
